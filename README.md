@@ -10,7 +10,7 @@ Spis treści:
 
 Informacje ogólne:
 
-    Ten projekt demonstruje, jak wizualizować dane finansowe przy użyciu bibliotek Python i Plotly. Dane           obejmują ceny zamknięcia akcji KGHM oraz miedzi (copper), przedstawione na interaktywnych wykresach i w        tabeli.Folder images zawiera zrzuty ekranu wyświetlonych wykresów.
+    Ten projekt demonstruje, jak wizualizować dane finansowe przy użyciu bibliotek Python i Plotly. Dane obejmują ceny zamknięcia akcji KGHM oraz miedzi (copper), przedstawione na interaktywnych wykresach i w tabeli.Folder images zawiera zrzuty ekranu wyświetlonych wykresów.
 
 Celem projektu było stworzenie wizualizacji:
 
