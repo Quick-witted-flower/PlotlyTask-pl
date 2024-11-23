@@ -1,6 +1,7 @@
         **Wizualizacja danych: ceny zamknięcia KGHM i miedzi**
 
 Spis treści:
+
     Informacje ogólne
     Wykorzystane technologie
     Instalacja
@@ -8,9 +9,11 @@ Spis treści:
     Kontakt
 
 Informacje ogólne:
-    Ten projekt demonstruje, jak wizualizować dane finansowe przy użyciu bibliotek Python i Plotly. Dane obejmują ceny zamknięcia akcji KGHM oraz miedzi (copper), przedstawione na interaktywnych wykresach i w tabeli.
+
+    Ten projekt demonstruje, jak wizualizować dane finansowe przy użyciu bibliotek Python i Plotly. Dane           obejmują ceny zamknięcia akcji KGHM oraz miedzi (copper), przedstawione na interaktywnych wykresach i w        tabeli.Folder images zawiera zrzuty ekranu wyświetlonych wykresów.
 
 Celem projektu było stworzenie wizualizacji:
+
     wykresu cen zamknięcia KGHM,
     wykresu cen zamknięcia miedzi,
     tabeli zestawiającej te dane w przejrzysty sposób.
@@ -23,6 +26,7 @@ Wykorzystane technologie
     (Opcjonalnie) Jupyter Notebook - do uruchamiania kodu w środowisku interaktywnym
 
 Instalacja
+
     Sklonuj repozytorium na swoją maszynę lokalną:
 
     git clone <adres-repozytorium>
@@ -36,6 +40,7 @@ Instalacja
     pip install notebook
 
 Użycie
+
     Projekt zawiera kod, który:
 
     Wczytuje dane z plików CSV (ceny KGHM i miedzi).
@@ -46,6 +51,7 @@ Użycie
         Tabelę zestawiającą ceny zamknięcia KGHM i miedzi w tych samych dniach.
 
 Aby uruchomić kod:
+
     Wczytaj dane do projektu w formacie CSV (np. kgh_d.csv dla KGHM i ca_c_f_d.csv dla miedzi).
     Uruchom kod w środowisku Python lub Jupyter Notebook.
     Wygenerowane wykresy i tabela będą wyświetlone jako interaktywny dashboard w przeglądarce.
